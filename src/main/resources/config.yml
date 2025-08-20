@@ -1,0 +1,8 @@
+game:
+  minPlayers: 2
+  maxPlayers: 16
+  winPoints: 10
+  countdown: 30
+  nuggetSpawnInterval: 5
+  ingotChance: 0.05
+  xpPerSecond: 1

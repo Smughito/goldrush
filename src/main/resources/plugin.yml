@@ -1,4 +1,13 @@
 name: GoldRush
-version: '0.0.1-SNAPSHOT'
-main: me.smughito.goldrush.GoldRush
-api-version: '1.21'
+main: me.smughito.goldrush.GoldRushPlugin
+version: 1.0
+api-version: 1.13
+commands:
+  goldrush:
+    description: Setup a goldrush arena
+    usage: /goldrush <setlobby|addnuggetspawner|...>
+  goldshop:
+    description: Open gold shop
+permissions:
+  goldrush.admin:
+    default: op

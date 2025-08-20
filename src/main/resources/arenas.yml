@@ -1,0 +1,10 @@
+arenas:
+  arena1:
+    world: world
+    lobby: {x: 0, y: 65, z: 0}
+    redSpawn: {x: 10, y: 65, z: 10}
+    blueSpawn: {x: -10, y: 65, z: -10}
+    nuggetSpawners:
+      - {x: 0, y: 65, z: 5}
+    xpGenerators:
+      - {x: 0, y: 65, z: 0, radius: 3}
