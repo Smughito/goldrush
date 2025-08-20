@@ -1,0 +1,4 @@
+name: GoldRush
+version: '0.0.1-SNAPSHOT'
+main: me.smughito.goldrush.GoldRush
+api-version: '1.21'
